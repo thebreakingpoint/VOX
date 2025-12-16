@@ -1,7 +1,7 @@
 <p align="center">
 
 <!-- Animated GIF on top -->
-<img src="media_overlord_glitch_transparent.gif" alt="THE MEDIA OVERLORD GIF">
+<img src="media_overlord_glitch_final.gif" alt="THE MEDIA OVERLORD GIF">
 
 <!-- Your LaTeX header below -->
 ${\textsf{\color{#192873}{Austin}\ .\color{#172469}\ {A}\color{#1a2873}{X}\color{#1f2f82}{E}\color{#24379c}{L}\ .\color{#24379c}\ {L}\color{#2b40ad}{u}\color{#3249bf}{c}\color{#3d57db}{y}~\color{#223fd4}{"\ ⟡\ \textbf{T\ H\ E\ .\ \ \ M\ E\ D\ I\ A\ .\ \ O\ V\ E\ R\ L\ O\ R\ D}\ \ ⟡\ "}\color{#192873}{....\ he\ '\ hym\ '\ it} }}$
